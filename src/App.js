@@ -1,5 +1,7 @@
+import Test from "./components/Test";
+
 function App() {
-  return <h1>Hellow world</h1>;
+  return <Test />;
 }
 
 export default App;
